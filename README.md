@@ -1,1 +1,1 @@
-![3D View](Images/3d_view.png)
+![3D View](3d_view.png)
